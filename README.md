@@ -9,6 +9,7 @@ A API permite:
 	- 	Atualizar os dados de um produto específico.
 	-	Remover produtos da base de dados.
 	-	Consultar produtos por ID ou listar todos os produtos cadastrados.
+ 
 	• Gestão de Pedidos:
 	-	Criar novos pedidos com lista de produtos e quantidade.
 	-	Atualizar o status de um pedido (por exemplo: processando, enviado, entregue).
