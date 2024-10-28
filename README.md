@@ -24,7 +24,6 @@ Tecnologias Utilizadas
 	•	Spring Security
 	•	Spring MVC
 	•	Spring Validation
-	•	Data Transfer Object
 	•	Auth0
 	•	MySQL Server
 	•	Docker
