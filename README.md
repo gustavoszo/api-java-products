@@ -4,12 +4,12 @@ Funcionalidades
 
 A API permite:
 
-	•	Gestão de Produtos:
-	- Cadastrar um novo produto com informações detalhadas (nome, descrição, preço e quantidade disponível).
-	- Atualizar os dados de um produto específico.
+	• Gestão de Produtos:
+	- 	Cadastrar um novo produto com informações detalhadas (nome, descrição, preço e quantidade disponível).
+	- 	Atualizar os dados de um produto específico.
 	-	Remover produtos da base de dados.
 	-	Consultar produtos por ID ou listar todos os produtos cadastrados.
-	•	Gestão de Pedidos:
+	• Gestão de Pedidos:
 	-	Criar novos pedidos com lista de produtos e quantidade.
 	-	Atualizar o status de um pedido (por exemplo: processando, enviado, entregue).
 	-	Consultar pedidos específicos por ID ou listar todos os pedidos de um cliente.
