@@ -23,6 +23,8 @@ Tecnologias Utilizadas
 	•	Spring Data JPA
 	•	Spring Security
 	•	Spring MVC
+	•	Spring Validation
+	•	Data Transfer Object
 	•	Auth0
 	•	MySQL Server
 	•	Docker
